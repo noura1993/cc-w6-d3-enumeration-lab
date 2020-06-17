@@ -27,5 +27,4 @@ Cinema.prototype.filmsByProperty = function (propertyName, propertyValue) {
 };
 
 
-
 module.exports = Cinema;
